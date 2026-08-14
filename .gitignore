@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VirtualBox / VM artifacts (never commit large binaries or disk images)
+*.vdi
+*.vbox
+*.vbox-prev
+*.ova
+*.7z
+*.iso
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
