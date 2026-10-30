@@ -1,6 +1,6 @@
 # 🖥️ Cybersecurity & Pentesting Lab Setup
 
-**Networkwalks | Week 1 | Batch B082 | Tools: VirtualBox + Kali Linux + Android-x86**
+**Networkwalks | Week 1 | Tools: VirtualBox + Kali Linux + Android-x86**
 
 ![Task](https://img.shields.io/badge/Task-1%20of%205-blue?style=flat-square)
 ![Timeline](https://img.shields.io/badge/Timeline-Week%201-808080?style=flat-square)
