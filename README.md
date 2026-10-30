@@ -306,7 +306,7 @@ Special thanks to [Networkwalks](https://www.linkedin.com/company/networkwalks/)
 # 👤 Author
 
 **Manivel R**
-Cybersecurity & Ethical Hacking Intern — Batch B082
+Cybersecurity & Ethical Hacking Intern - 
 **Networkwalks**
 
 ---
